@@ -273,6 +273,8 @@ dialog::backdrop { background: rgba(20, 19, 16, .74); backdrop-filter: blur(5px)
 .dialog-close--floating { position: absolute; right: 0; color: var(--ink); background: var(--paper); }
 .media-dialog__stage { display: grid; place-items: center; width: 100%; height: 100%; padding: 20px; }
 .media-dialog__stage img, .media-dialog__stage video { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+.media-dialog--scrollable .media-dialog__stage { display: block; overflow-y: auto; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; }
+.media-dialog--scrollable .media-dialog__stage img { display: block; width: auto; max-width: 100%; height: auto; max-height: none; margin: 0 auto; }
 .noscript-note { padding: 40px var(--gutter); background: #fff3cd; }
 
 @media (max-width: 900px) {
