@@ -132,7 +132,9 @@ function openMedia(item) {
   const stage = document.querySelector('[data-media-stage]');
   if (!dialog || !stage) return;
   lastFocusedElement = document.activeElement;
+  dialog.classList.toggle('media-dialog--scrollable', Boolean(item.scrollable));
   stage.innerHTML = createMediaMarkup(item);
+  stage.scrollTop = 0;
   dialog.showModal();
   document.body.classList.add('is-dialog-open');
 }
@@ -230,7 +232,7 @@ function init() {
   });
   document.querySelectorAll('.site-nav a').forEach((link) => link.addEventListener('click', () => setMenu(false)));
   document.querySelector('[data-preview-src]')?.addEventListener('click', (event) => openMedia({
-    type: 'image', src: event.currentTarget.dataset.previewSrc, alt: event.currentTarget.dataset.previewAlt,
+    type: 'image', src: event.currentTarget.dataset.previewSrc, alt: event.currentTarget.dataset.previewAlt, scrollable: true,
   }));
   observeReveals();
 }
