@@ -1,0 +1,529 @@
+{
+  "generatedAt": "2026-10-13",
+  "items": [
+    {
+      "id": "other-01",
+      "type": "image",
+      "sourceGroup": "other",
+      "sourcePath": "tx网站必备文件/其他设计(1)/其他设计/VI应用设计23_画板 1.jpg",
+      "webPath": "assets/images/other-01.webp",
+      "width": 1800,
+      "height": 2400
+    },
+    {
+      "id": "other-02",
+      "type": "image",
+      "sourceGroup": "other",
+      "sourcePath": "tx网站必备文件/其他设计(1)/其他设计/冬至.jpg",
+      "webPath": "assets/images/other-02.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "other-03",
+      "type": "image",
+      "sourceGroup": "other",
+      "sourcePath": "tx网站必备文件/其他设计(1)/其他设计/冰箱贴完成图_画板 1.jpg",
+      "webPath": "assets/images/other-03.webp",
+      "width": 2400,
+      "height": 1698
+    },
+    {
+      "id": "other-04",
+      "type": "image",
+      "sourceGroup": "other",
+      "sourcePath": "tx网站必备文件/其他设计(1)/其他设计/大雪.jpg",
+      "webPath": "assets/images/other-04.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "other-05",
+      "type": "image",
+      "sourceGroup": "other",
+      "sourcePath": "tx网站必备文件/其他设计(1)/其他设计/寒露.jpg",
+      "webPath": "assets/images/other-05.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "other-06",
+      "type": "image",
+      "sourceGroup": "other",
+      "sourcePath": "tx网站必备文件/其他设计(1)/其他设计/整体-01.jpg",
+      "webPath": "assets/images/other-06.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "other-07",
+      "type": "image",
+      "sourceGroup": "other",
+      "sourcePath": "tx网站必备文件/其他设计(1)/其他设计/整体-02.jpg",
+      "webPath": "assets/images/other-07.webp",
+      "width": 1698,
+      "height": 2400
+    },
+    {
+      "id": "other-08",
+      "type": "image",
+      "sourceGroup": "other",
+      "sourcePath": "tx网站必备文件/其他设计(1)/其他设计/谭鑫-瑞虎呈茶展板_画板 1.jpg",
+      "webPath": "assets/images/other-08.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "packaging-01",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/30谭鑫二十四节气展板设计 (2).jpg",
+      "webPath": "assets/images/packaging-01.webp",
+      "width": 1693,
+      "height": 2400
+    },
+    {
+      "id": "packaging-02",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/30谭鑫二十四节气展板设计.jpg",
+      "webPath": "assets/images/packaging-02.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "packaging-03",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/咖啡豆_画板 1.jpg",
+      "webPath": "assets/images/packaging-03.webp",
+      "width": 1847,
+      "height": 2400
+    },
+    {
+      "id": "packaging-04",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/哈尔_画板 1.jpg",
+      "webPath": "assets/images/packaging-04.webp",
+      "width": 1698,
+      "height": 2400
+    },
+    {
+      "id": "packaging-05",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/视觉五班谭鑫JS23210530.jpg",
+      "webPath": "assets/images/packaging-05.webp",
+      "width": 1698,
+      "height": 2400
+    },
+    {
+      "id": "internship-01",
+      "type": "image",
+      "sourceGroup": "internship",
+      "sourcePath": "tx网站必备文件/实习经历(1)/实习经历/实习证明 (2).png",
+      "webPath": "assets/images/internship-01.webp",
+      "width": 418,
+      "height": 259
+    },
+    {
+      "id": "internship-02",
+      "type": "image",
+      "sourceGroup": "internship",
+      "sourcePath": "tx网站必备文件/实习经历(1)/实习经历/实习证明 (3).png",
+      "webPath": "assets/images/internship-02.webp",
+      "width": 414,
+      "height": 311
+    },
+    {
+      "id": "internship-03",
+      "type": "image",
+      "sourceGroup": "internship",
+      "sourcePath": "tx网站必备文件/实习经历(1)/实习经历/实习证明.png",
+      "webPath": "assets/images/internship-03.webp",
+      "width": 289,
+      "height": 500
+    },
+    {
+      "id": "internship-04",
+      "type": "image",
+      "sourceGroup": "internship",
+      "sourcePath": "tx网站必备文件/实习经历(1)/实习经历/实习证明（4）.png",
+      "webPath": "assets/images/internship-04.webp",
+      "width": 302,
+      "height": 403
+    },
+    {
+      "id": "internship-05",
+      "type": "image",
+      "sourceGroup": "internship",
+      "sourcePath": "tx网站必备文件/实习经历(1)/实习经历/实习证明（5）.png",
+      "webPath": "assets/images/internship-05.webp",
+      "width": 412,
+      "height": 282
+    },
+    {
+      "id": "editorial-01",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/12谭鑫.jpg",
+      "webPath": "assets/images/editorial-01.webp",
+      "width": 2400,
+      "height": 971
+    },
+    {
+      "id": "editorial-02",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/书籍展板_画板 1.jpg",
+      "webPath": "assets/images/editorial-02.webp",
+      "width": 1680,
+      "height": 2400
+    },
+    {
+      "id": "editorial-03",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/十二生肖.jpg",
+      "webPath": "assets/images/editorial-03.webp",
+      "width": 2400,
+      "height": 1285
+    },
+    {
+      "id": "editorial-04",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/十二生肖2.jpg",
+      "webPath": "assets/images/editorial-04.webp",
+      "width": 2400,
+      "height": 1285
+    },
+    {
+      "id": "editorial-05",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/十二生肖3.jpg",
+      "webPath": "assets/images/editorial-05.webp",
+      "width": 2400,
+      "height": 1285
+    },
+    {
+      "id": "editorial-06",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/十二生肖4.jpg",
+      "webPath": "assets/images/editorial-06.webp",
+      "width": 2400,
+      "height": 1285
+    },
+    {
+      "id": "editorial-07",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/十二生肖5.jpg",
+      "webPath": "assets/images/editorial-07.webp",
+      "width": 2400,
+      "height": 1285
+    },
+    {
+      "id": "editorial-08",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/十二生肖6.jpg",
+      "webPath": "assets/images/editorial-08.webp",
+      "width": 2400,
+      "height": 1285
+    },
+    {
+      "id": "editorial-09",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/十二生肖7.jpg",
+      "webPath": "assets/images/editorial-09.webp",
+      "width": 2400,
+      "height": 1285
+    },
+    {
+      "id": "editorial-10",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/十二生肖8.jpg",
+      "webPath": "assets/images/editorial-10.webp",
+      "width": 2400,
+      "height": 1285
+    },
+    {
+      "id": "editorial-11",
+      "type": "image",
+      "sourceGroup": "editorial",
+      "sourcePath": "tx网站必备文件/板式设计(1)/板式设计/画展2高版率_画板 1.jpg",
+      "webPath": "assets/images/editorial-11.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "posters-01",
+      "type": "image",
+      "sourceGroup": "posters",
+      "sourcePath": "tx网站必备文件/海报设计(1)/海报设计/1_画板 1.jpg",
+      "webPath": "assets/images/posters-01.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "posters-02",
+      "type": "image",
+      "sourceGroup": "posters",
+      "sourcePath": "tx网站必备文件/海报设计(1)/海报设计/兔年海报.jpg",
+      "webPath": "assets/images/posters-02.webp",
+      "width": 1600,
+      "height": 2400
+    },
+    {
+      "id": "posters-03",
+      "type": "image",
+      "sourceGroup": "posters",
+      "sourcePath": "tx网站必备文件/海报设计(1)/海报设计/奶茶商业海报_画板 1.jpg",
+      "webPath": "assets/images/posters-03.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "posters-04",
+      "type": "image",
+      "sourceGroup": "posters",
+      "sourcePath": "tx网站必备文件/海报设计(1)/海报设计/面包2_画板 1.jpg",
+      "webPath": "assets/images/posters-04.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "profile-01",
+      "type": "image",
+      "sourceGroup": "profile",
+      "sourcePath": "tx网站必备文件/简历和证件照(1)/简历和证件照/e60ab7811d7864abfe6c91783bea59c.jpg",
+      "webPath": "assets/images/profile-01.webp",
+      "width": 1714,
+      "height": 2400
+    },
+    {
+      "id": "profile-02",
+      "type": "image",
+      "sourceGroup": "profile",
+      "sourcePath": "tx网站必备文件/简历和证件照(1)/简历和证件照/简历.png",
+      "webPath": "assets/images/profile-02.webp",
+      "width": 1697,
+      "height": 2400
+    },
+    {
+      "id": "packaging-06",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/js23210530谭鑫.pdf",
+      "webPath": "assets/images/packaging-06.webp",
+      "width": 1918,
+      "height": 1156
+    },
+    {
+      "id": "packaging-07",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/js23210530谭鑫.pdf",
+      "webPath": "assets/images/packaging-07.webp",
+      "width": 1918,
+      "height": 1156
+    },
+    {
+      "id": "packaging-08",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/js23210530谭鑫.pdf",
+      "webPath": "assets/images/packaging-08.webp",
+      "width": 1918,
+      "height": 1156
+    },
+    {
+      "id": "packaging-09",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/js23210530谭鑫.pdf",
+      "webPath": "assets/images/packaging-09.webp",
+      "width": 1918,
+      "height": 1156
+    },
+    {
+      "id": "packaging-10",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/js23210530谭鑫.pdf",
+      "webPath": "assets/images/packaging-10.webp",
+      "width": 1918,
+      "height": 1156
+    },
+    {
+      "id": "packaging-11",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/js23210530谭鑫.pdf",
+      "webPath": "assets/images/packaging-11.webp",
+      "width": 1918,
+      "height": 1156
+    },
+    {
+      "id": "packaging-12",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/js23210530谭鑫.pdf",
+      "webPath": "assets/images/packaging-12.webp",
+      "width": 1918,
+      "height": 1156
+    },
+    {
+      "id": "packaging-13",
+      "type": "image",
+      "sourceGroup": "packaging",
+      "sourcePath": "tx网站必备文件/包装设计(1)/包装设计/js23210530谭鑫.pdf",
+      "webPath": "assets/images/packaging-13.webp",
+      "width": 1918,
+      "height": 1156
+    },
+    {
+      "id": "video-01",
+      "type": "video",
+      "sourceGroup": "video",
+      "sourcePath": "tx网站必备文件/实习经历(1)/实习经历/视频宣传/8ca3c885e01983f8d142a7b33217f4da.mp4",
+      "webPath": "assets/video/video-01.mp4",
+      "width": 1280,
+      "height": 720,
+      "posterPath": "assets/images/video-01-poster.webp"
+    },
+    {
+      "id": "video-02",
+      "type": "video",
+      "sourceGroup": "video",
+      "sourcePath": "tx网站必备文件/实习经历(1)/实习经历/视频宣传/d9f85ee7e60c8fe16f8caf055fd51806.mp4",
+      "webPath": "assets/video/video-02.mp4",
+      "width": 1280,
+      "height": 720,
+      "posterPath": "assets/images/video-02-poster.webp"
+    },
+    {
+      "id": "video-link-01",
+      "type": "image",
+      "sourceGroup": "linked-video",
+      "sourcePath": "upload/626a4e0f4071650f7bc73ebbaad69601(2).jpg",
+      "webPath": "assets/images/video-link-01.webp",
+      "width": 1600,
+      "height": 857
+    },
+    {
+      "id": "video-link-02",
+      "type": "image",
+      "sourceGroup": "linked-video",
+      "sourcePath": "upload/11cb617173deabec7c9db4ac3145eaee(2).jpg",
+      "webPath": "assets/images/video-link-02.webp",
+      "width": 1600,
+      "height": 908
+    },
+    {
+      "id": "video-link-03",
+      "type": "image",
+      "sourceGroup": "linked-video",
+      "sourcePath": "upload/9a33cb43f3ace5b579b7af725f13e0c4(2).jpg",
+      "webPath": "assets/images/video-link-03.webp",
+      "width": 1600,
+      "height": 887
+    },
+    {
+      "id": "video-link-04",
+      "type": "image",
+      "sourceGroup": "linked-video",
+      "sourcePath": "upload/6e7f2b71b9ba9c79aa42f6140c87e9b5(2).jpg",
+      "webPath": "assets/images/video-link-04.webp",
+      "width": 1600,
+      "height": 884
+    },
+    {
+      "id": "huangtianyuan-vi-01",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/黄天源VI设计谭鑫(1)(1).pdf",
+      "webPath": "assets/images/huangtianyuan-vi-01.webp",
+      "width": 1754,
+      "height": 1241
+    },
+    {
+      "id": "huangtianyuan-vi-03",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/黄天源VI设计谭鑫(1)(1).pdf",
+      "webPath": "assets/images/huangtianyuan-vi-03.webp",
+      "width": 1754,
+      "height": 1241
+    },
+    {
+      "id": "huangtianyuan-vi-08",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/黄天源VI设计谭鑫(1)(1).pdf",
+      "webPath": "assets/images/huangtianyuan-vi-08.webp",
+      "width": 1754,
+      "height": 1241
+    },
+    {
+      "id": "huangtianyuan-vi-10",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/黄天源VI设计谭鑫(1)(1).pdf",
+      "webPath": "assets/images/huangtianyuan-vi-10.webp",
+      "width": 1754,
+      "height": 1241
+    },
+    {
+      "id": "huangtianyuan-vi-12",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/黄天源VI设计谭鑫(1)(1).pdf",
+      "webPath": "assets/images/huangtianyuan-vi-12.webp",
+      "width": 1754,
+      "height": 1241
+    },
+    {
+      "id": "huangtianyuan-vi-15",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/黄天源VI设计谭鑫(1)(1).pdf",
+      "webPath": "assets/images/huangtianyuan-vi-15.webp",
+      "width": 1754,
+      "height": 1241
+    },
+    {
+      "id": "huangtianyuan-vi-18",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/黄天源VI设计谭鑫(1)(1).pdf",
+      "webPath": "assets/images/huangtianyuan-vi-18.webp",
+      "width": 1754,
+      "height": 1241
+    },
+    {
+      "id": "ruihu-vi-cover",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/微信图片_20261014232146_142017_2.png",
+      "webPath": "assets/images/ruihu-vi-cover.webp",
+      "width": 907,
+      "height": 657
+    },
+    {
+      "id": "ruihu-vi-full",
+      "type": "image",
+      "sourceGroup": "vi-manual",
+      "sourcePath": "upload/32b47df57f63fabe5930944d6a496cef.jpg",
+      "webPath": "assets/images/ruihu-vi-full.webp",
+      "width": 704,
+      "height": 2048
+    }
+  ]
+}
