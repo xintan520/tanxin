@@ -74,3 +74,13 @@ test('interaction module supports keyboard closing, focus restoration and future
   assert.match(source, /openMedia/);
   assert.match(source, /closeMedia/);
 });
+
+test('resume preview opens in a dedicated scrollable media view', () => {
+  const source = readFileSync(resolve(root, 'assets/js/app.js'), 'utf8');
+  const css = readFileSync(resolve(root, 'assets/css/styles.css'), 'utf8');
+  assert.match(source, /scrollable:\s*true/);
+  assert.match(source, /media-dialog--scrollable/);
+  assert.match(source, /stage\.scrollTop\s*=\s*0/);
+  assert.match(css, /media-dialog--scrollable[\s\S]*overflow-y:\s*auto/);
+  assert.match(css, /media-dialog--scrollable[\s\S]*max-height:\s*none/);
+});
